@@ -39,13 +39,17 @@ body {
 }
 
 .resume .resume_left .resume_profile {
-  width: 100%;
-  height: 280px;
+  width: 10%;
+  height: 10px;
+}
+.my_picture {
+  width: 280px;
+  line-height: 0%;
 }
 
 .resume .resume_left .resume_profile img {
-  width: 100%;
-  height: 100%;
+  width: 10%;
+  height: 10%;
 }
 
 .resume .resume_left .resume_content {
@@ -232,4 +236,12 @@ body {
 
 .resume .resume_right .resume_hobby ul li:last-child:before {
   display: none;
+}
+
+.zuri_img {
+  width: 100px;
+  height: 100px;
+}
+.hng_logo {
+  width: 150px;
 }
